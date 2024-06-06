@@ -1,1 +1,1 @@
-# My-PRojEcts
+# Mini Pyhon Projects
